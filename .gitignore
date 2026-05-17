@@ -1,0 +1,4 @@
+*.class
+.ser
+__init__.py
+.idea
