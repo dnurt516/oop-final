@@ -1,4 +1,4 @@
 *.class
-.ser
+*.ser
 __init__.py
 .idea
